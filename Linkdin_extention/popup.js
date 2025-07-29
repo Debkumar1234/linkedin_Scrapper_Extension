@@ -1,7 +1,3 @@
-const linkedinLinks = [
-  
-];
-
 const profileUrls = [
   "https://www.linkedin.com/in/debkumar-mallick-542119249/",
   "https://www.linkedin.com/in/rohan-roy-9847aa164/",
